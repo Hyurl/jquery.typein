@@ -2,6 +2,12 @@
 
 **A JQuery plugin that displays typing effect of an HTMLElement.**
 
+## Install
+
+```sh
+npm install jquery.typein --save
+```
+
 ## Import
 
 ### HTML
