@@ -11,7 +11,15 @@
     "jquery",
     "type"
   ],
-  "author": "Ayon Lee",
+  "author": {
+    "name": "Ayon Lee",
+    "email": "i@hyurl.com",
+    "url": "http://hyurl.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hyurl/jquery.typein.git"
+  },
   "license": "MIT",
   "dependencies": {
     "@types/jquery": "^3.3.1",
