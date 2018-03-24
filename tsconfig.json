@@ -1,0 +1,21 @@
+{
+    "compilerOptions": {
+        "module": "es2015",
+        "target": "ES2015",
+        "preserveConstEnums": true,
+        "rootDir": "src/",
+        "outDir": "dist/",
+        "newLine": "LF",
+        "removeComments": true,
+        "sourceMap": true,
+        "noUnusedLocals": true,
+        "noUnusedParameters": true,
+        "pretty": true
+    },
+    "files": [
+        "src/jquery.typein.ts"
+    ],
+    "exclude": [
+        "node_modules/*"
+    ]
+}
